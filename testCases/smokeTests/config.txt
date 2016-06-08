@@ -1,6 +1,6 @@
 LoginCreds(
 Username:UniqueUser
-Password:SupersecurePassword
+Password:XXXXXXXXXXXX
 )
 
 Tests:
